@@ -1,2 +1,2 @@
 # convertor
-weight conversionn from kg to others
+weight conversion from kg to others
